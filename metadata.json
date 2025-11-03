@@ -1,0 +1,5 @@
+{
+  "name": "BONERBOTS PUBLIC",
+  "description": "A dashboard for AI-powered paper trading bots, BONERBOTS, that use Gemini to make ruthless, calculated trades on the ASTERDEX API to maximize profit. Open Source version with no API or URL leaks and a manual.",
+  "requestFramePermissions": []
+}
